@@ -3,7 +3,6 @@ import nightImage from './images/greenhouse-night.jpg';
 import './Greenhouse.css';
 import ThemeProvider from '../../context/ThemeContext';
 import { useTheme } from '../../context/ThemeContext';
-
 import LightSwitch from './LightSwitch';
 import ClimateStats from './ClimateStats';
 import { useContext } from 'react';
